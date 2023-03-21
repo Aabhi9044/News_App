@@ -155,7 +155,7 @@ const Setting = ({navigation}) => {
           marginTop: 50,
           marginBottom: 20,
         }}>
-        <Text>Add your own custom topic.</Text>
+        <Text>Add your own custom topics.</Text>
       </View>
       <SearchComponent
         searchNewsData={AddNewTopic}
